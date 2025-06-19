@@ -1,0 +1,27 @@
+{
+  "name": "pepboard",
+  "version": "1.0.0",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "scripts": {
+    "start": "node express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepalipiple/Realtime-Whiteboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepalipiple/Realtime-Whiteboard/issues"
+  },
+  "homepage": "https://github.com/deepalipiple/Realtime-Whiteboard#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
